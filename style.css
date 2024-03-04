@@ -1,0 +1,17 @@
+.row{
+    padding: 20px;
+}
+body{
+    background-color: black;
+}
+.title{
+    color:linear-gradient(toright red blue);
+    text-align: center;
+    font-size: 80px;
+    margin-top: 30px;
+    font-family: "Sofia", sans-serif;
+    background: -webkit-linear-gradient(#eee, #333);
+}
+.card-img-top{
+    height: 400px;
+}
